@@ -1,0 +1,11 @@
+{
+  "name": "docker-intronodejs",
+  "private": true,
+  "version": "0.0.1",
+  "description": "Introduction Node.js",
+  "author": "Eric Greene <eric@training4developers.com>",
+  "dependencies": {
+    "express": "^4.*.*",
+    "oracledb": "^1.7.1"
+  }
+}
