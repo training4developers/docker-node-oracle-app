@@ -1,2 +1,2 @@
-# docker-node-oracle
-Node.js and Oracle 11g Docker
+# docker-node-oracle-app
+Starter Node.js/Oracle application hosted inside a Docker
