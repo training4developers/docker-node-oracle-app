@@ -22,13 +22,13 @@ $ docker-machine ip vmwf
 
 The IP address will be the IP address used to access the web server when the Docker is started.
 
-## Pull Down this Project
+### Pull Down this Project
 
-Either clone this project to your system, or download a ZIP file of this project. If you download the ZIP file, then unzip the ZIP file. Open a terminal, and change to the project folder on your system.
+Either clone this project to your system, or download a ZIP file of this project. If you download the ZIP file, then unzip the ZIP file.
 
 ## Start Project
 
-Open the **Docker Quick Start** terminal, and run the following command.
+Open the **Docker Quick Start** terminal, then change to the project folder on your system. Run the following command.
 
 ```bash
 $ ./start.sh
