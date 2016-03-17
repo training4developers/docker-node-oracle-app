@@ -1,8 +1,8 @@
 {
-  "name": "docker-intronodejs",
+  "name": "docker-node-oracle-app",
   "private": true,
   "version": "0.0.1",
-  "description": "Introduction Node.js",
+  "description": "Node.js and Oracle application hosted in a Docker Container.",
   "author": "Eric Greene <eric@training4developers.com>",
   "dependencies": {
     "express": "^4.*.*",
