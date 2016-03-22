@@ -1,8 +1,9 @@
 #!/bin/bash
 
+rm -rf node_modules
 npm install
 
-# docker pull training4developers/node-oracle
+docker pull training4developers/node-oracle
 
 docker run -i -t \
 	-p 49161:1521 -p 3000:3000 -p 49162:8080 \
