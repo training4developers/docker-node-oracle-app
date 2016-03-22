@@ -68,8 +68,8 @@ Start an editor such as Atom, Sublime or Visual Studio Code, and open the folder
 
 Download [Oracle SQL Developer](http://www.oracle.com/technetwork/developer-tools/sql-developer/downloads/index.html). Connect to the database using the following information:
 
-Hostname: IP address from above
-Port: 49161
-SID: xe
-Username: system
-Password: oracle
+- Hostname: Docker Machine IP address from above
+- Port: 49161
+- SID: xe
+- Username: system
+- Password: oracle
